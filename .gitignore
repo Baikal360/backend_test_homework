@@ -1,2 +1,4 @@
 # ignore doc files
-*.doc
+text.doc
+
+# еще что-то
